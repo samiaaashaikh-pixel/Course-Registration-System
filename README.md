@@ -1,2 +1,3 @@
 # Course-Registration-System
-This is a program that take a student name and registers courses that the student has selected . This assignment is made by Samia Shaikh 2k26/CSM/109 and Sumaika Nadeem 2k26/CSM/124.
+This is program will take Student name and show you the available courses then student has to choose the courses that he like and that courses will be register. This assignment is made by SAMIA SHAIKH 2K26/CSM/109 and SUMAIKA NADEEM 2K26/CSM/124.we hope you lie this Assignment Sir Gulsher.
+
